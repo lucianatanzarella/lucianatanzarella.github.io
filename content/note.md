@@ -2,7 +2,7 @@
 title: First test
 draft: false
 tags:
-	- example
+  - example
 date: 2025-02-11
 ---
 
