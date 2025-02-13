@@ -1,5 +1,5 @@
 ---
-title: Welcome to MY Tormalina
+title: Welcome to my Tourmaline
 ---
 
 This is a blank Quartz installation.
