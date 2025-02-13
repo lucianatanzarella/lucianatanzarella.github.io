@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "lux.github.io",
+    baseUrl: "lucianatanzarella.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "published",
     generateSocialImages: true,
