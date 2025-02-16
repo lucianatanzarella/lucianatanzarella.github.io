@@ -1,8 +1,14 @@
 ---
-title: Welcome to my Tourmaline
+title: Welcome ✨
 ---
+I’m Lux, a **physicist turned AI safety engineer**. 
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+By day, I keep AI from making questionable decisions. By night, I have so many hobbies, each competing for my time: somewhere between the gym, classical singing, and my latest creative project like crocheting or painting, I promise I sleep. 🧸
 
-But this is MY installation.
+# Why Tourmaline?
+Because **Tourmaline is cool**. Like the gemstone, my interests come in _many colors_: I refuse to pick just one and I embrace them all. 
+
+It’s also a nod to **Obsidian**, the digital refuge where I collect my thoughts and organize information as a second brain.
+
+# Why are you here?
+This is a place to explore ideas and enjoy the things that make life rich and interesting. Now that you are, **stick around,** and if you want to share curious and intriguing insights, you can write to me or get in touch!
