@@ -2,7 +2,7 @@
 title: CV
 draft: false
 tags:
-  - work
+  - aboutme
 date: 2025-02-16
 comments: false
 enableToc: true
