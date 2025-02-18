@@ -141,7 +141,7 @@ Implemented a **Variational Monte Carlo algorithm** to simulate the **Hubbard mo
 ---
 
 ## 🎨 Extras  
-🎵 **Classical Singing & Violin** 
+🎵 **[[Musical CV|Classical Singing and Violin]]**
 🎨 **Painting & Crocheting** 
 🏋️‍♂️ **Gym & Hiking** 
 🎮 **Videogames** 
