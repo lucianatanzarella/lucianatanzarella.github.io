@@ -6,7 +6,6 @@ tags: aboutme
 comments: false
 enableToc: false
 ---
-
 # 🌟 Key Skills
 
 - **Vocal Range:** Soprano and Mezzosoprano

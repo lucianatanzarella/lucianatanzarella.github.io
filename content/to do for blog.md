@@ -9,3 +9,5 @@ date: 2025-02-11
 - [x] write and publish CV
 - [ ] add static pages in Components (or ask Luca)
 - [x] create a template for new posts and add Template plugin
+- [ ] modificare componente per togliere tempo di lettura e data 
+

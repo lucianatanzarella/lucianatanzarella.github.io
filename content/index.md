@@ -1,5 +1,6 @@
 ---
-title: Welcome ✨
+title: Welcome to Tourmaline ✨
+showReadingTime: false
 ---
 I’m Lux, a **physicist turned AI safety engineer**. 
 

@@ -25,6 +25,8 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
 
   function ContentMetadata({ cfg, fileData, displayClass }: QuartzComponentProps) {
     const text = fileData.text
+    const showReadingTime = fileData.frontmatter?.showReadingTime ?? true  // Read from frontmatter
+
 
     if (text) {
       const segments: (string | JSX.Element)[] = []
@@ -34,7 +36,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       }
 
       // Display reading time if enabled
-      if (options.showReadingTime) {
+      if (showReadingTime) {
         const { minutes, words: _words } = readingTime(text)
         const displayedTime = i18n(cfg.locale).components.contentMeta.readingTime({
           minutes: Math.ceil(minutes),
