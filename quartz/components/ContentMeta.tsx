@@ -26,14 +26,16 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
   function ContentMetadata({ cfg, fileData, displayClass }: QuartzComponentProps) {
     const text = fileData.text
     const showReadingTime = fileData.frontmatter?.showReadingTime ?? true  // Read from frontmatter
-    const showDate = fileData.frontmatter?.showDate ?? true
+
+    // Reading showDate from note: if showDate in frontmatter is false, it stays false, otherwise it defaults to true
+    const showDate: boolean = fileData.frontmatter?.showDate === false ? false : true
 
     if (text) {
       const segments: (string | JSX.Element)[] = []
       
       if (fileData.dates && showDate) {
         segments.push(
-          <Date date={getDate(cfg, fileData)!} locale={cfg.locale} showDate={showDate} />
+          <Date date={getDate(cfg, fileData)!} locale={cfg.locale} showDate={!!showDate} /> // to ensure that showDate is always a boolean
         )
       }
 

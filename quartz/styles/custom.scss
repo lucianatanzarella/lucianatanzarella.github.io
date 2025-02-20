@@ -1,3 +1,67 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+/* 🔹 NavBar Styling */
+.navbar {
+  position: relative;
+  top: 0px;  /* Moves navbar to the top */
+  left: 78%; /* Moves navbar to the right */
+  display: flex;
+  gap: 15px;
+  background: rgba(51, 51, 51, 0.9); /* Dark background with slight transparency */
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(85, 77, 77, 0.1);
+}
+
+.navbar ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex; /* Makes the navbar horizontal */
+  gap: 10px; /* Adds spacing between items */
+}
+
+.navbar li {
+  position: relative;
+}
+
+.nav-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #f0f0f0;
+  text-decoration: none;
+  font-size: 20px;
+  transition: background 0.3s ease, transform 0.3s ease;
+}
+
+.nav-link:hover {
+  background: #d0d0d0;
+  transform: scale(1.1);
+}
+
+/* Tooltip appears when hovering */
+.nav-tooltip {
+  position: absolute;
+  top: -55px; /* Moves tooltip below icon */
+  left: 50%;
+  transform: translateX(-50%);
+  background: white;
+  padding: 6px 12px;
+  border-radius: 5px;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+  font-size: 14px;
+  white-space: nowrap;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+li:hover .nav-tooltip {
+  opacity: 1;
+  visibility: visible;
+  transform: translateX(-50%) translateY(5px);
+}
