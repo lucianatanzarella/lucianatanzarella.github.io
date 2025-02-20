@@ -156,6 +156,9 @@ export default (() => {
 
     return (
       <head>
+        <img src="/static/icon.png" alt="Logo" 
+          style={{ width: "200px", position: "center top", margin: "auto", display: "relative" }} />
+
         <title>{title}</title>
         <meta charSet="utf-8" />
         {cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && (

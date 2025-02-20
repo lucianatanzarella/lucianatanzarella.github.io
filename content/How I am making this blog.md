@@ -15,3 +15,6 @@ Poichè il blog è costruito su Obsidian e Quartz ho pensato a qualcosa che comp
 - Tourmaline Blooms,
 - Lavander Tourmaline,
 - Tourmaline/Feldspar Nest.
+
+
+I discovered this amazing website https://uiverse.io/ and used https://uiverse.io/00Kubi/slippery-earwig-94 as a base for the navigation bar.
