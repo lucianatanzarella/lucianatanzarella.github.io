@@ -12,7 +12,7 @@ interface ContentMetaOptions {
    */
   showReadingTime: boolean
   showComma: boolean
-}
+  }
 
 const defaultOptions: ContentMetaOptions = {
   showReadingTime: true,
@@ -26,13 +26,15 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
   function ContentMetadata({ cfg, fileData, displayClass }: QuartzComponentProps) {
     const text = fileData.text
     const showReadingTime = fileData.frontmatter?.showReadingTime ?? true  // Read from frontmatter
-
+    const showDate = fileData.frontmatter?.showDate ?? true
 
     if (text) {
       const segments: (string | JSX.Element)[] = []
-
-      if (fileData.dates) {
-        segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
+      
+      if (fileData.dates && showDate) {
+        segments.push(
+          <Date date={getDate(cfg, fileData)!} locale={cfg.locale} showDate={showDate} />
+        )
       }
 
       // Display reading time if enabled
