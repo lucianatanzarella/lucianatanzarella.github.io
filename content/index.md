@@ -2,6 +2,7 @@
 title: Welcome to Tourmaline ✨
 showReadingTime: false
 showDate: false
+enableToc: false
 ---
 I’m Lux, a **physicist turned AI safety engineer**. 
 
@@ -12,8 +13,6 @@ By [[CV|day]], I keep AI from making questionable decisions. By [[Musical CV|nig
 Because **Tourmaline is cool**. Like the gemstone, my interests come in _many colors_: I refuse to pick just one and I embrace them all. 
 
 It’s also a nod to **Obsidian**, the digital refuge where I collect my thoughts and organize information as a second brain.
-
-
 
 # Why are you here?
 This is a place to explore ideas and enjoy the things that make life rich and interesting. Now that you are, **stick around,** and if you want to share curious and intriguing insights, you can get in touch!
