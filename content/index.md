@@ -5,12 +5,14 @@ showDate: false
 ---
 I’m Lux, a **physicist turned AI safety engineer**. 
 
-By day, I keep AI from making questionable decisions. By night, I have so many hobbies, each competing for my time: somewhere between the gym, classical singing, and my latest creative project like crocheting or painting, I promise I sleep. 🧸
+By [[CV|day]], I keep AI from making questionable decisions. By [[Musical CV|night]], I have so many hobbies, each competing for my time: somewhere between the gym, classical singing, and my latest creative project like crocheting or painting, I promise I sleep. 🧸
 
-# Why Tourmaline?
+# Why Tourmaline? <img src="assets/logo blog.png" width = 30% >
+
 Because **Tourmaline is cool**. Like the gemstone, my interests come in _many colors_: I refuse to pick just one and I embrace them all. 
 
 It’s also a nod to **Obsidian**, the digital refuge where I collect my thoughts and organize information as a second brain.
+
 
 
 # Why are you here?

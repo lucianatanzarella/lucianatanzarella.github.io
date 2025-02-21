@@ -6,4 +6,6 @@ comments: false
 showDate: false
 showReadingTime: false
 ---
-<img src="assets/pic-aboutme.jpg">
+<img src="assets/pic-aboutme.jpg" width= 40% >
+
+
