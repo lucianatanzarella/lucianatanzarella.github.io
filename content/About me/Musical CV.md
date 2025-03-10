@@ -49,10 +49,12 @@ Ostuni, Italy | _2012 – 2017_
 - **Bach** | _Johannes Passion_, _Matthäus Passion_, _Weihnachtsoratorium_, _Magnificat_, Cantatas 11, 34, 172 (Soprano 2 – Münchner Bach Chor)
 - **Handel** | _Jeptha_ (Soprano 1 – Arcis Vocalisten), _Messiah_ (excerpts)
 - **Orff** | _Carmina Burana_ (Soprano 1 – Arcis Vocalisten, Soprano 2 – Münchner Bach Chor; Tour at KKL Lucerne)
-- **Mozart** | _Missa in C Minor_ (Soprano 2 – Münchner Bach Chor)
+- **Mozart** | _Missa in C Minor_ (Soprano 2 – Münchner Bach Chor), _Requiem_ 
+- **Beethoven** | _Missa Solemnis_
 - **Mendelssohn** | _Die erste Walpurgisnacht_ (Soprano 1 – Arcis Vocalisten)
 - **Rossini** | _Stabat Mater_ (Tour in Italy – Siena, Forlì, Ravenna with Münchner Bach Chor)
 - **Loewe** | _Hiob_ (Soprano 1 – Arcis Vocalisten)
+- **Jenkins** | _The Armed Man_ (Soprano 1 - Arcis Vocalisten)
 - **Vivaldi** | _Gloria_
 
   
