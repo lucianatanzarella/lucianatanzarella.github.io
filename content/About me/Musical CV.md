@@ -45,6 +45,7 @@ Ostuni, Italy | _2010 – 2016_
 
 Ostuni, Italy | _2012 – 2017_
 
+---
 # 🎼 Selected Repertoire
 - **Bach** | _Johannes Passion_, _Matthäus Passion_, _Weihnachtsoratorium_, _Magnificat_, Cantatas 11, 34, 172 (Soprano 2 – Münchner Bach Chor)
 - **Handel** | _Jeptha_ (Soprano 1 – Arcis Vocalisten), _Messiah_ (excerpts)
@@ -56,8 +57,6 @@ Ostuni, Italy | _2012 – 2017_
 - **Loewe** | _Hiob_ (Soprano 1 – Arcis Vocalisten)
 - **Jenkins** | _The Armed Man_ (Soprano 1 - Arcis Vocalisten)
 - **Vivaldi** | _Gloria_
-
-  
 
 # 🎵 (Classical) Solo Repertoire
 - **Handel** | _Lascia ch’io pianga_ (_Rinaldo_)
