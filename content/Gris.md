@@ -36,7 +36,7 @@ At the top, part of this flock turns into a huge bird, which I run away from and
 You no longer scare me.
 
 It sounds like a swallow, now flying with me. Only the ringing of a huge bell can finally push it away, and I am free to climb further. I see the welcoming hand and the eroded face of a woman.
-# Blu
+# Blue
 It rains.
 I fell down again, into the forest, but this time there are huge water patches. When I am underwater, the sound is really realistic.
 Now I have to trust not only the canopies of the shape-shifting trees, but also the watery canopies. My dear little birds are still around.
