@@ -77,5 +77,5 @@ I am about to climb the constellation, but the moray reappears and I look at it:
 Everything is still desolate, gray, but I know these fragments well: I climb over them and end up on the hand. Now everything is rebuilt. I climb the constellation one last time, higher and higher, until I am completely bathed in light. 
 
 End credits.
-## General comments
-I really appreciated the consistency of the spaces, with the architecture always recognizable but never repetitive. For me, painting in watercolor and loving the effect of stain, to find an entire game in watercolor and even using watercolor stain as clouds was truly a dream.
+# General comments
+I really appreciated the consistency of spaces, with the architecture always recognizable but never repetitive. For me, painting in watercolor and loving the effect of stain, to find an entire game in watercolor and even using watercolor stain as clouds was truly a dream.
