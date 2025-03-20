@@ -1,9 +1,12 @@
 ---
 title: Gris
 draft: false
-date: 2025-03-20
+date: 2025-03-19
 tags:
   - videogames
+---
+**TL;DR**: this videogame is a work of art on all levels. I experienced it as an emotional journey, and what follows is a kind of travel journal. I highly and enthusiastically recommend this game and am grateful to have experienced it.
+
 ---
 
 This game had been on my list for a very long time, always nudged by other more or less prestigious titles. However, I felt the urge to use it as inspiration for a watercolor painting, where I could observe and experience every nuance of color, every detail of the ink: it resonated with me so much that I could not store it among other drawings, but displayed it next to my desk.
@@ -11,7 +14,7 @@ This game had been on my list for a very long time, always nudged by other more 
 After a rather turbulent experience with another video game, I was looking forward to experiencing Gris. My knowledge is limited to the fact that it is a platformer with particularly aesthetic graphics.
 
 Lights off, I press New Game.
-# Intro (Gray) 
+# Intro
 I hear a song, then a cracked voice, and I immediately feel very empathetic. There's desolation now, outside and inside the character, and inside me. The lack of color reflects the lack of energy, even walking not quite easy. Usually in video games, I don't have much patience or empathy, especially in the first few minutes of the game, whereas here I'm already invested in the character, I understand her exhaustion, and I want to give her all the time she needs to take her first steps after such profound shattering.
 
 I am so relieved when she starts moving normally. I can only hear the echo of her footsteps, which starts to alternate with the deafening noise of sudden gusts of red wind, obstructing the path we are already struggling on. Sometimes I find refuge in some places, but it is necessary to learn the art of solidity against the elements.
