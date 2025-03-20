@@ -10,6 +10,10 @@ tags:
 ---
 
 This game had been on my list for a very long time, always nudged by other more or less prestigious titles. However, I felt the urge to use it as inspiration for a watercolor painting, where I could observe and experience every nuance of color, every detail of the ink: it resonated with me so much that I could not store it among other drawings, but displayed it next to my desk.
+<figure>  
+  <img src="assets/gris_painting.webp" width= 70% class="center" >  
+  <figcaption> My reference </figcaption>  
+</figure>
 
 After a rather turbulent experience with another video game, I was looking forward to experiencing Gris. My knowledge is limited to the fact that it is a platformer with particularly aesthetic graphics.
 
@@ -36,9 +40,13 @@ I see two statues of women, one in despair, the other taking a hesitant step for
 
 At the top, part of this flock turns into a huge bird, which I run away from and which seems to be very angry with me. The music suggests that it is my enemy. Its scream is as powerful and destabilizing as the red wind I have already faced, so I have to be solid in those moments to not be thrown away. I keep running, but always some of those little birds help me to jump. I realize that the scream of the bird I'm running from is only seemingly frightening: I can use it to glide.
 
-You no longer scare me.
 
-It sounds like a swallow, now flying with me. Only the ringing of a huge bell can finally push it away, and I am free to climb further. I see the welcoming hand and the eroded face of a woman.
+<figure>  
+  <img src="assets/gris3.jpeg.webp" width= 70% class="center" >  
+  <figcaption> You no longer scare me.</figcaption>  
+</figure>
+
+It is a swallow, now flying with me. Only the ringing of a huge bell can finally push it away, and I am free to climb further. I see the welcoming hand and the eroded face of a woman.
 # Blue
 It rains.
 I fell down again, into the forest, but this time there are huge water patches. When I am underwater, the sound is really realistic.
