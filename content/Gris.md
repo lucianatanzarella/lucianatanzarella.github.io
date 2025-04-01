@@ -42,7 +42,7 @@ At the top, part of this flock turns into a huge bird, which I run away from and
 
 
 <figure>  
-  <img src="assets/gris3.jpeg.webp" width= 70% class="center" >  
+  <img src="assets/gris3.webp" width= 70% class="center" >  
   <figcaption> You no longer scare me.</figcaption>  
 </figure>
 
