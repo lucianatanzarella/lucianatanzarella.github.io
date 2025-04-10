@@ -54,8 +54,6 @@ The powerful choir is the narrative’s echo, conscience, and eruption. One mome
  
 The _turba_ choruses inject a theatrical chaos that makes the biblical drama feel dangerously real. Then, just as swiftly, the same voices soften into chorales anchored in Lutheran tradition, offering spaces to breathe, reflect, grieve. These meditative interludes bind action to faith, and individual to collective experience. Framed by the opening cry of _“Herr, unser Herrscher”_ and the final stillness of _“Ruht wohl”_, the choir delivers a spiritual architecture. It plays every role, wears every face, and breaks the fourth wall - inviting the audience not just to listen, but to feel complicit, seen, moved.
 
-
-
 ---
 # Resources
 - https://www.flaminioonline.it/Guide/Bach/Bach-Johannespassion245.html
