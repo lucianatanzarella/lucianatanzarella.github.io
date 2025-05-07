@@ -32,13 +32,13 @@ Munich, Germany
 | **Other** | Markdown, Bash, Linux, GIT  
 
 ## 🌍 Languages  
-| Language  | Proficiency Level |
-|-----------|-----------------|
-| **Italian**  | Native  |
-| **English**  | C2 - Advanced  |
-| **French**  | C1 - Advanced  |
-| **German**  | A2 - Elementary  |
-| **Spanish**  | A1 - Elementary  |
+| Language    | Proficiency Level |
+| ----------- | ----------------- |
+| **Italian** | Native            |
+| **English** | C2 - Advanced     |
+| **French**  | C1 - Advanced     |
+| **German**  | B1 - Intermediate |
+| **Spanish** | A1 - Elementary   |
 
 ---
 
