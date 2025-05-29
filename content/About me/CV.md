@@ -62,6 +62,7 @@ International interdisciplinary Master with focus on **Nonlinear physics**, **Fi
 
 ### 🔸 BSc in Physical Engineering 
 _Politecnico di Torino, Italy_ | 2018 - 2020
+
 Courses on **Quantum Mechanics**, **Solid state physics**, **Statistical Physics** and **state-of-the-art technologies** (cryogenics, nanotechnologies, nuclear physics)
 
 Final project on **game theory** of social distancing during an epidemic.
