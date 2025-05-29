@@ -17,10 +17,10 @@ Munich, Germany
 
 ## 🚀 Skills  
 - **AI Safety & Assurance** | Risk Modeling, AI governance, uncertainty quantification  
-- **Regulatory Compliance & Risk Management** | EU AI Act, ISO 26262, ISO PAS 8800, SOTIF  
+- **Regulatory Compliance & Risk Management** | EU AI Act, ISO 26262, ISO PAS 8800, SOTIF, EU AI Act, Automotive SPICE
 - **Mathematical & Computational Modeling** | Complex Systems, Stochastic Methods, Machine Learning  
 - **Technical Documentation & Research Writing** | Reports, stakeholder communication, user stories
-- **Project & Knowledge Management** | Cross-functional collaboration,  agile frameworks
+- **Project & Knowledge Management** | Cross-functional collaboration,  agile frameworks, cross-department coordination
 
 ## 💻 Programming Languages & Tools  
 | Scope  | Languages |
@@ -97,7 +97,7 @@ _IBM Research, Zurich_ | 2022
 ---
 
 ## 🔍 Key Projects 
-### 🛠 Web-Based Tool for Safety Assurance | Now
+### 🛠 Web-Based Tool for Safety Assurance | 2025
 Developing a web-based tool that allows users to model system architecture and ODD, estimate residual risk using probabilistic approaches, and discover architectural weaknesses. 
 
 ### 🛡️ ML4Safety | 2024
